@@ -1,0 +1,4 @@
+hi
+Error on 1:1
+file
+error happened
